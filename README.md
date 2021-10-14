@@ -19,7 +19,7 @@
 ## Develop
 1. Class Relation
     <div align="center">
-    <img src="./doc/2.png" width="700" >
+    <img src=".2.png" width="700" >
     </div>
 
 2. When coding set 'NAM_LOC' as local
@@ -47,7 +47,7 @@
     ```
 5. Git Branch 
     <div align="center">
-    <img src="./doc/1.png" width="700">
+    <img src=".1.png" width="700">
     </div>
     use develop branch to add new feature, use deploy branch to fix error of master before release.
 
