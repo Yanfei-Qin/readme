@@ -5,7 +5,7 @@
 ## 体系结构
 1. Base functions
     <div align="center">
-    <img src="./doc/1.png" width="500" >
+    <img src="1.png" width="500" >
     </div>
 
 
@@ -19,7 +19,7 @@
 ## Develop
 1. Class Relation
     <div align="center">
-    <img src=".2.png" width="700" >
+    <img src="2.png" width="700" >
     </div>
 
 2. When coding set 'NAM_LOC' as local
